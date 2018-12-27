@@ -8,5 +8,17 @@ public class Warmup1 {
 		}
 		return false;
 	}
+	
+	public int diff21(int n) {
+		if(n <= 21) {
+		  return 21 - n;
+		}else {
+		  return (n - 21) * 2;	
+		}
+	}
+
+	public boolean nearHundred(int n) {
+		  return false;
+	}
 
 }
