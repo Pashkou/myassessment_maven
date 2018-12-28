@@ -1,4 +1,4 @@
-package hackerrank.com;
+package hackerrank.com.warmup;
 
 public class Solution3 {
 	public int jumpingOnClouds(int[] c) {

@@ -1,8 +1,10 @@
-package hackerrank.com;
+package hackerrank.com.warumup;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import hackerrank.com.warmup.Solution4;
 
 public class Solution4Test {
 

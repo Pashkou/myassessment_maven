@@ -1,4 +1,4 @@
-package hackerrank.com;
+package hackerrank.com.warmup;
 
 public class Solution2 {
 	public int countingValleys(int n, String s) {
